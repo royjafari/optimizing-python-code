@@ -1,5 +1,3 @@
-# optimizing-python-code
-
 # Optimizing the Python Code for Big Data
 
 <a href="https://www.amazon.com/dp/B0BXFYZKWR"><img src="https://m.media-amazon.com/images/I/41qSHP4RLoL._SY346_.jpg" alt="Optimizing the Big Data Problem Statement" height="256px" align="right"></a>
