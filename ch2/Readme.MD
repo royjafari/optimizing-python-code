@@ -3,9 +3,6 @@ Balancing Coding Complexity against Computational Complexity
 
 ## Main Codes
 Find the main codes in the file [Chapter2.ipynb](https://github.com/royjafari/optimizing-python-code/blob/main/ch2/Chapter2.ipynb)
-
-## Figures
- - Download Figure 3.2 from this [link](https://www.dropbox.com/s/9mr8u3pkf4q3bnr/Figure3_2.pdf?dl=1).
  
 ## Challenges and Answers
 ### Challenge 1: String or Categories? 
