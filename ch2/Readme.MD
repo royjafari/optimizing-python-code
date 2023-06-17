@@ -14,9 +14,9 @@ Find the main codes in the file [Chapter2.ipynb](https://github.com/royjafari/op
 - Use [Challenge2_Solution.ipynb](https://github.com/royjafari/optimizing-python-code/blob/main/ch2/Challenge2_Solution.ipynb) to find the answers.
 
 ### Challenge 3:
-- Use [Challenge3_Empty.ipynb](https://github.com/royjafari/optimizing-python-code/blob/main/ch3/Challenge3_Empty.ipynb) to start wprking on this challenge. 
-- Use [Challenge3_Solution.ipynb](https://github.com/royjafari/optimizing-python-code/blob/main/ch3/Challenge3_Solution.ipynb) to find the answers.
+- Use [Challenge3_Empty.ipynb](https://github.com/royjafari/optimizing-python-code/blob/main/ch2/Challenge3_Empty.ipynb) to start wprking on this challenge. 
+- Use [Challenge3_Solution.ipynb](https://github.com/royjafari/optimizing-python-code/blob/main/ch2/Challenge3_Solution.ipynb) to find the answers.
 
 ### Challenge 4:
-- Use [Challenge3_Empty.ipynb](https://github.com/royjafari/optimizing-python-code/blob/main/ch4/Challenge3_Empty.ipynb) to start wprking on this challenge. 
-- Use [Challenge3_Solution.ipynb](https://github.com/royjafari/optimizing-python-code/blob/main/ch4/Challenge3_Solution.ipynb) to find the answers.
+- Use [Challenge3_Empty.ipynb](https://github.com/royjafari/optimizing-python-code/blob/main/ch2/Challenge3_Empty.ipynb) to start wprking on this challenge. 
+- Use [Challenge3_Solution.ipynb](https://github.com/royjafari/optimizing-python-code/blob/main/ch2/Challenge3_Solution.ipynb) to find the answers.
