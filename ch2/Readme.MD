@@ -1,5 +1,4 @@
-# Chapter 2: Optimizing the Python Code for Big Data
-Balancing Coding Complexity against Computational Complexity
+# Chapter 2: Choosing the right Data Type
 
 ## Main Codes
 Find the main codes in the file [Chapter2.ipynb](https://github.com/royjafari/optimizing-python-code/blob/main/ch2/Chapter2.ipynb)

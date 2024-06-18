@@ -1,5 +1,4 @@
-# Chapter 3: Optimizing the Python Code for Big Data
-Balancing Coding Complexity against Computational Complexity
+# Chapter 3: Using the right data structures
 
 ## Main Codes
 Find the main codes in the file [Chapter3.ipynb](https://github.com/royjafari/optimizing-python-code/blob/main/ch3/Chapter3.ipynb)
