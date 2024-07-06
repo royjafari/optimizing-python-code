@@ -5,17 +5,17 @@ Find the main codes in the file [Chapter2.ipynb](https://github.com/royjafari/op
  
 ## Challenges and Answers
 ### Challenge 1: String or Categories? 
-- Use [Challenge1_Empty.ipynb](https://github.com/royjafari/optimizing-python-code/blob/main/ch2/Challenge1_Empty.ipynb) to start wprking on this challenge. 
+- Use [Challenge1_Empty.ipynb](https://github.com/royjafari/optimizing-python-code/blob/main/ch2/Challenge1_Empty.ipynb) to start working on this challenge. 
 - Use [Challenge1_Solution.ipynb](https://github.com/royjafari/optimizing-python-code/blob/main/ch2/Challenge1_Solution.ipynb) to find the answers.
 
 ### Challenge 2: 
-- Use [Challenge2_Empty.ipynb](https://github.com/royjafari/optimizing-python-code/blob/main/ch2/Challenge2_Empty.ipynb) to start wprking on this challenge. 
+- Use [Challenge2_Empty.ipynb](https://github.com/royjafari/optimizing-python-code/blob/main/ch2/Challenge2_Empty.ipynb) to start working on this challenge. 
 - Use [Challenge2_Solution.ipynb](https://github.com/royjafari/optimizing-python-code/blob/main/ch2/Challenge2_Solution.ipynb) to find the answers.
 
 ### Challenge 3:
-- Use [Challenge3_Empty.ipynb](https://github.com/royjafari/optimizing-python-code/blob/main/ch2/Challenge3_Empty.ipynb) to start wprking on this challenge. 
+- Use [Challenge3_Empty.ipynb](https://github.com/royjafari/optimizing-python-code/blob/main/ch2/Challenge3_Empty.ipynb) to start working on this challenge. 
 - Use [Challenge3_Solution.ipynb](https://github.com/royjafari/optimizing-python-code/blob/main/ch2/Challenge3_Solution.ipynb) to find the answers.
 
 ### Challenge 4:
-- Use [Challenge3_Empty.ipynb](https://github.com/royjafari/optimizing-python-code/blob/main/ch2/Challenge3_Empty.ipynb) to start wprking on this challenge. 
+- Use [Challenge3_Empty.ipynb](https://github.com/royjafari/optimizing-python-code/blob/main/ch2/Challenge3_Empty.ipynb) to start working on this challenge. 
 - Use [Challenge3_Solution.ipynb](https://github.com/royjafari/optimizing-python-code/blob/main/ch2/Challenge3_Solution.ipynb) to find the answers.
