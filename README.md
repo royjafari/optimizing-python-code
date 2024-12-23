@@ -1,6 +1,6 @@
 # Optimizing the Python Code for Big Data
 
-<a href="https://a.co/d/1G1spuf"><img src="https://m.media-amazon.com/images/I/71QlkOsJkXL._SY522_.jpg" alt="Optimizing the Python Code for Big Data" height="256px" align="right"></a>
+<a href="https://a.co/d/1G1spuf"><img src="https://m.media-amazon.com/images/I/41y6F2KLyvL._SY445_SX342_.jpg" alt="Optimizing the Python Code for Big Data" height="256px" align="right"></a>
 
 This is the code repository for [Optimizing the Python Code for Big Data](https://a.co/d/1G1spuf), published by Roy Jafari. 
 
