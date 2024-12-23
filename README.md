@@ -13,12 +13,13 @@ Big Data is more than just a buzzword—it's a gateway to uncovering groundbreak
 As the second book in the "Big Data Preparation - Learn by Doing" series, "Optimizing the Python Code for Big Data" builds on the foundation established in the first book. While the first book focuses on defining and optimizing Big Data problem statements, this book dives deeper into the technical aspects of coding and resource management, equipping readers with the tools and strategies to handle complex data processing tasks with Python.
 
 Key Features of the Book:
-Resource Optimization: Learn how to effectively manage computational and memory resources to avoid common pitfalls like workspace overload and worker inefficiency.
-Big O Notation Made Simple: Gain a clear understanding of Big O complexities and how they influence code performance.
+- *Resource Optimization*: Learn how to effectively manage computational and memory resources to avoid common pitfalls like workspace overload and worker inefficiency.
+- *Big O Notation Made Simple*: Gain a clear understanding of Big O complexities and how they influence code performance.
 Choosing the Right Data Types and Structures: Make informed decisions to prevent wasted RAM, CPU cycles, and runtime.
-Advanced Coding Patterns: Explore hands-on challenges that teach you how to apply patterns like sliding windows, two pointers, and recursion.
-Vectorization and Broadcasting: Unlock Python's true potential by leveraging advanced techniques to eliminate nested loops and maximize performance.
-Tool Selection Strategies: Develop a framework for choosing the right tools for tasks such as image preprocessing, data restructuring, and algorithm optimization.
+- *Advanced Coding Patterns*: Explore hands-on challenges that teach you how to apply patterns like sliding windows, two pointers, and recursion.
+- *Vectorization and Broadcasting*: Unlock Python's true potential by leveraging advanced techniques to eliminate nested loops and maximize performance.
+- *Tool Selection Strategies*: Develop a framework for choosing the right tools for tasks such as image preprocessing, data restructuring, and algorithm optimization.
+
 Packed with practical examples, coding challenges, and real-world case studies, this book is designed for data scientists, engineers, and Python enthusiasts who are ready to take their skills to the next level. Whether you're optimizing a machine learning pipeline or processing vast datasets, the insights and strategies in this book will empower you to write smarter, faster, and more efficient code.
 
 Who Should Read This Book?
